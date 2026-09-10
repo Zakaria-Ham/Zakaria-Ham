@@ -22,4 +22,3 @@ I'm Zakaria also known as RedLed. , I like Visual builds that's what made me bec
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Zakaria-Ham&icon=0&color=4)](https://visitcount.itsvg.in)
