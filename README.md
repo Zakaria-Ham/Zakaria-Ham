@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Zakaria also known as RedLed. , I like Visual builds that's what made me become: Front-end developer, a graphic designer and a video editor.
 
-🔭 I’m currently working on a Game HUB (game 3 branch broke [broke 2 weeks streak])<br>
+🔭 I’m currently working on a Game HUB (branch broke 2 weeks GitHub streak)<br>
 👯 I’m looking to collaborate on any web project<br>
 🌱 I’m currently learning more about react<br>
 💬 Feel free to contact me <br>
