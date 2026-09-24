@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm **Zakaria**, also known as **RedLed**. I love **Visual Builds**, which naturally drew me to becoming a Front-end Developer, Graphic Designer, and Video Editor.
+I'm **Zakaria**, also known as **RedLed**. I love building **Visual Stuff**, which naturally drew me to becoming a Front-end Developer, Graphic Designer, and Video Editor.
 
 🔭 **Current Focus:** Working on an ambitious **Game HUB**
 👯 **Collaboration:** Open to collaborating on any exciting **web projects**
