@@ -4,7 +4,7 @@ I'm **Zakaria**, also known as **RedLed**. I love building **Visual Stuff**, whi
 🔭 **Current Focus:** Working on an ambitious **Game HUB**
 👯 **Collaboration:** Open to collaborating on any exciting **web projects**
 🌱 **Learning:** Currently diving deeper into **React** and its ecosystem
-💬 **Reach Out:** Feel free to contact me via my socials below
+💬 **Reach Out:** Feel free to contact me via my socials below or in my portfolio
 ⚡ **Fun Fact:** I built my first web project using a framework before even learning pure JavaScript!
 
 ---
