@@ -7,8 +7,6 @@ I'm **Zakaria**, also known as **RedLed**. I love building **Visual Stuff**, whi
 💬 **Reach Out:** Feel free to contact me via my socials below or in my portfolio <br>
 ⚡ **Fun Fact:** I built my first web project using a framework before even learning pure JavaScript!
 
----
-
 ## 🌐 Socials
 <p align="left">
   <a href="https://discord.gg/878042533689688074" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"></a>
